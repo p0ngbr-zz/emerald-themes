@@ -6,6 +6,6 @@ Some Emerald themes
 - NewCoal
 - Quicksand
 - Rhapsodized
- - Normal
- - Micro
+  - Normal
+  - Micro
 - scienzia
